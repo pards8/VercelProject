@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #e3b662;
+}
+input::placeholder {
+  font-size: 0.9rem;
+}
